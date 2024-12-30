@@ -2,6 +2,21 @@
 
 Learn Hub is a full-stack course-sharing platform that allows users to register, login, browse, purchase, and track their progress on courses. Admins and instructors can create, manage, and publish courses. Users can also interact with the platform by completing courses and viewing lecture progress. This project is built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with additional functionalities like authentication, file upload with Cloudinary, and course management.
 
+## Screenshots 🖼️
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/db8e01a0-b51a-43f5-b842-7ec50dc83f7b" alt="Screenshot 1" width="800" />
+      <p><strong>Light Mode</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/37a98c44-6dbe-4ed0-b92c-870bad3427b2" alt="Screenshot 2" width="800" />
+      <p><strong>Dark Mode</strong></p>
+    </td>
+  </tr>
+</table>
+
 ## Features 🚀
 
 - **User Authentication & Profile Management** 🔐: Secure user login, registration, and profile updates.
